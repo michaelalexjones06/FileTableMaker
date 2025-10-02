@@ -1,0 +1,16 @@
+# Build artifacts
+out/
+target/
+bin/
+build/
+*.class
+*.log
+
+# IntelliJ / IDE
+.idea/
+*.iml
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
